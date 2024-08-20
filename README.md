@@ -1,3 +1,8 @@
+## ViLearnX Advanced Technologies ##
+
+ViLearnX Advance Technologies aim to impart technical knowledge with innovative learning modules, from a young age, which makes learning not only informative but interesting.
+This company aspire to bring out the leaders, thinkers, and creators of tomorrow, who with the help of technology build a technically racing world. 
+
 # BOOK-RECOMMENDATION-SYSTEM-TASK-3-
 A book recommendation project using data science involves analyzing user preferences and book features to suggest books that users are likely to enjoy. It leverages algorithms like collaborative filtering or content-based filtering for personalized recommendations.
 ### Report: Book Recommendation Project Using Clustering Analysis
